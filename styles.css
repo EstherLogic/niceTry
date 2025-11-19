@@ -1,0 +1,7 @@
+.but{
+    background-color: chartreuse;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
