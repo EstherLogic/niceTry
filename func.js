@@ -5,5 +5,6 @@ button.addEventListener('click', function () {
     console.log(name);
     let answer = confirm("Are you ready?");
     console.log(answer); 
+    console.log("leah"); 
 
 });
